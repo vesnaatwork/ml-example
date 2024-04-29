@@ -1,0 +1,5 @@
+[
+    {"image_path": "/Users/vesnapetkovic/Documents/ml/4.jpg", "true_label_index": 4},
+    {"image_path": "/Users/vesnapetkovic/Documents/ml/1.jpg", "true_label_index": 1},
+    {"image_path": "/Users/vesnapetkovic/Documents/ml/fake3.jpg", "true_label_index": -1}
+]
